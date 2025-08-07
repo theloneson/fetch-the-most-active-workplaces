@@ -9,3 +9,4 @@
 /test/junit/
 /test/coverage/
 /test/reports/
+node_modules
